@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FGOCharacter" parent="Theme.Material3.DayNight">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fillColor">#FFFFFF</item>
+    </style>
+</resources>

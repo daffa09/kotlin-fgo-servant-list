@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Servant List</string>
+    <string name="character_name">Servant Name</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="my_name">Daffa Fathan</string>
+    <string name="my_email">daffa.fathan9@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="class_name">class_name</string>
+    <string-array name="data_name">
+        <item>Jeanne d\'Arc Alter</item>
+        <item>Morgan Le Fae</item>
+        <item>Oberon</item>
+        <item>Arjuna Alter</item>
+        <item>Kama</item>
+        <item>Altria Caster</item>
+        <item>Gilgamesh</item>
+        <item>Mashu Kyrielight</item>
+        <item>Musashi Miyamoto</item>
+        <item>Scathach-Skadi</item>
+        <item>Edmon Dantes</item>
+        <item>Romulus</item>
+    </string-array>
+    <string-array name="data_class_servant">
+        <item>Avenger</item>
+        <item>Berseker</item>
+        <item>Pretender</item>
+        <item>Berseker</item>
+        <item>Assasin</item>
+        <item>Caster</item>
+        <item>Archer</item>
+        <item>Shielder</item>
+        <item>Saber</item>
+        <item>Caster</item>
+        <item>Avenger</item>
+        <item>Lancer</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Although referred to as Alter, she is not the alternative side of Jeanne d\'Arc. Instead, she represents the sorrow of Gilles de Rais over Jeanne\'s death and is a being created by the Holy Grail. As a Heroic Spirit completely opposite to Jeanne d\'Arc, she manifests in this world as Avenger.</item>
+        <item>The queen who rules over the Lostbelt Faerie Britain. She has established an absolute monarchy in Lostbelt Britain, oppressing the fae for over 2,000 years. The highest ranked faerie and a divinely brilliant mage, she bears Rhongomyniad, the Lance of the World\s End, as a form of magecraft.</item>
+        <item>First introduced in "Faerie Round Table Domain: Avalon le Fae, this Servant was summoned to Britain to defeat Morgan, the ruler of Faerie Britain. Oberon has been known in the British Isles since ancient times, but this version strongly resembles his portrayal in Shakespeare\'s "A Midsummer Night\'s Dream."</item>
+        <item>In Indian mythology, there\'s a hero who is extremely close to being a god who both ends and restarts everything. And now this Lostbelt Servant, Arjuna (Alter), inherited the Authority of destruction from this hero. He lost almost all of his human qualities in exchange for this power, but his innate nature as a hero prevented him from becoming completely mechanical.</item>
+        <item>The god of love in Indian mythology, also called Kamadeva. Originally depicted as a male god. Kama\'s manifestation uses an all too familiar girl as a vessel. This is due in part to that girl\'s peculiarity, and in part to the presence of another goddess who also appeared as a Pseudo-Servant.</item>
+        <item>The child of prophecy, who was chosen along with the Staff of Selection. She appears a touch younger, looking as she did at the halfway point, right in the middle of her journey to reach Camelot.</item>
+        <item>Part god, part man, the king that ruled over the city-state of Uruk in Sumeria before the modern calendar. A king not just of legend but of one of mankind\'s oldest tales, "The Epic of Gilgamesh."</item>
+        <item>This is Chaldea staff, Mash Kyrielight. After her Possessive Fusion with a Servant, she\'s called a Demi-Servant.</item>
+        <item>A swordsman from the early Edo period, famous for being the greatest master of the blade in Japanese history. Musashi is said to have created "Niten Ichiryu," and was a master of the two-sword style that used both short and long swords....Or so it was thought, but it seems that this Musashi is different from the one known in the history textbooks.</item>
+        <item>A Servant, originally from the Scandinavian Lostbelt, who is completely separate from the Scáthach of Proper Human History. She is recognized as a god only in the Lostbelt, and her aspect as a queen is emphasized.</item>
+        <item>The world\'s most well known seeker of vengeance. Known as "The Count of Monte Cristo." Entrapped by a cruel plot and convicted of a crime he didn\'t commit, he was sent to the nightmarish Château d\'If. His iron will kept him from falling into despair, and with the treasure of Monte Cristo island in hand he returned to Paris. There he exacted a terrible revenge upon the city\'s most influential people who had betrayed him to become so.</item>
+        <item>The young Romulus, who would become the great founder of the nation of Rome, was born to the war god Mars and the beautiful princess Silvia. He was raised among wild beasts. Here, his youthful self has been combined with Quirinus, one of the three highest-ranking Roman deities.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/7/76/S106_Stage1.webp/revision/latest?cb=20220911061752</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/6/65/S309_Stage1.webp/revision/latest?cb=20220925054336</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/4/40/S316_Stage4.webp/revision/latest?cb=20220925055829</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/0/0e/S247_Stage4.webp/revision/latest?cb=20220917062110</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/6/64/S239_Stage1.webp/revision/latest?cb=20220917053333</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/0/0d/S284_Stage4.webp/revision/latest?cb=20220924025645</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S012_Stage4.webp/revision/latest?cb=20220910075506</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/9/93/S001_Costume3.webp/revision/latest?cb=20220910072002</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/9/95/S153_Stage3.webp/revision/latest?cb=20220911082641</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S215_Stage1.webp/revision/latest?cb=20220913145145</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/f/fb/S096_Stage3.webp/revision/latest?cb=20220911052606</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/1/1a/S280_Stage3.webp/revision/latest?cb=20220924010254</item>
+    </string-array>
+</resources>

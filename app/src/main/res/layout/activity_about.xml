@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:paddingTop="?attr/actionBarSize"
+    tools:context=".AboutActivity">
+
+    <RelativeLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/image_about"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="8dp"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/my_name"
+            android:textColor="?android:textColor"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_below="@id/image_about"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/tv_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/my_email"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_below="@id/tv_name"
+            android:layout_centerHorizontal="true"
+            />
+
+    </RelativeLayout>
+
+</ScrollView>
